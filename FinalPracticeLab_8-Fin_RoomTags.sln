@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalPracticeLab_8-Fin_RoomTags", "FinalPracticeLab_8-Fin_RoomTags\FinalPracticeLab_8-Fin_RoomTags.csproj", "{E9E46977-0416-4020-97A6-8D348A8D1EFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9E46977-0416-4020-97A6-8D348A8D1EFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9E46977-0416-4020-97A6-8D348A8D1EFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9E46977-0416-4020-97A6-8D348A8D1EFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9E46977-0416-4020-97A6-8D348A8D1EFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18C3DC86-A39F-4E0E-AAF2-3D1C8B047C8E}
+	EndGlobalSection
+EndGlobal
